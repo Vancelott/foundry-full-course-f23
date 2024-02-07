@@ -2017,7 +2017,7 @@ _[⌨️ (9:44:02) | Advanced: EVM Opcodes, Encoding, and Calling ](https://yout
   What REALLY is the ABI?
 - EVM Opcodes
 - More EVM Opcodes
-- Solidity Cheatsheet
+- [Solidity Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 - abi.encode vs abi.encodePacked
 
 ### Introduction to Encoding Function Calls Directly
